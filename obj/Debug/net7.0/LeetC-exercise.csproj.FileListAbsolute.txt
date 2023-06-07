@@ -1,0 +1,15 @@
+C:\ProjectsCSharp\LeetC-exercise\bin\Debug\net7.0\LeetC-exercise.exe
+C:\ProjectsCSharp\LeetC-exercise\bin\Debug\net7.0\LeetC-exercise.deps.json
+C:\ProjectsCSharp\LeetC-exercise\bin\Debug\net7.0\LeetC-exercise.runtimeconfig.json
+C:\ProjectsCSharp\LeetC-exercise\bin\Debug\net7.0\LeetC-exercise.dll
+C:\ProjectsCSharp\LeetC-exercise\bin\Debug\net7.0\LeetC-exercise.pdb
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.csproj.AssemblyReference.cache
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.AssemblyInfoInputs.cache
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.AssemblyInfo.cs
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.csproj.CoreCompileInputs.cache
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.dll
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\refint\LeetC-exercise.dll
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.pdb
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\LeetC-exercise.genruntimeconfig.cache
+C:\ProjectsCSharp\LeetC-exercise\obj\Debug\net7.0\ref\LeetC-exercise.dll
