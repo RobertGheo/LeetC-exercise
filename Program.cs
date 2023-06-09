@@ -13,12 +13,11 @@ while (quitVar == false)
     switch (inputMenu)
     {
         case "a1":
-            A1_TwoSum.mMain();
-            break;
+            A1_TwoSum.mMain(); break;
         case "a2":
-            A2_PalindromeNumber.mMain(); 
-            break;
-
+            A2_PalindromeNumber.mMain(); break;
+        case "a3":
+            A2_PalindromeNumber.mMain(); break;
 
         case "q":
             quitVar = true;
