@@ -18,7 +18,8 @@ while (quitVar == false)
             A2_PalindromeNumber.mMain(); break;
         case "a3":
             A2_PalindromeNumber.mMain(); break;
-
+        case "a4":
+            A2_PalindromeNumber.mMain(); break;
         case "q":
             quitVar = true;
             break;
