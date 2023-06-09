@@ -15,7 +15,9 @@ while (quitVar == false)
         case "a1":
             A1_TwoSum.mMain();
             break;
-
+        case "a2":
+            A2_PalindromeNumber.mMain(); 
+            break;
 
 
         case "q":
