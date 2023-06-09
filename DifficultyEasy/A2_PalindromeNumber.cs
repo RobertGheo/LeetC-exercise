@@ -19,7 +19,7 @@ namespace LeetC_exercise.DifficultyEasy
                 Console.WriteLine();
             }catch (Exception ex)
             {
-                Console.WriteLine("please insert an integer");
+                Console.WriteLine("please insert an integer {0}", ex);
             }
         }
 
