@@ -17,7 +17,7 @@ while (quitVar == false)
         case "a2":
             A2_PalindromeNumber.mMain(); break;
         case "a3":
-            A2_PalindromeNumber.mMain(); break;
+            A3_RomanToInteger.mMain(); break;
         case "a4":
             A2_PalindromeNumber.mMain(); break;
         case "q":
